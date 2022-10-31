@@ -1,16 +1,27 @@
-# movies_apps
+# InCinema
+Flutter TMDB Movie App.
 
-A new Flutter project.
+### SDK Version
+1. Flutter SDK v3.3.3 with null safety support
 
-## Getting Started
+### How to install
 
-This project is a starting point for a Flutter application.
+Run this command in your terminal:
+```bash
+git clone https://github.com/yusriltakeuchi/restaurantapp.git
+cd restaurantapp
+flutter packages get
+```
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+Get an API key from [here](https://www.themoviedb.org/documentation/api)
+In the project directory on Repository folder edit file api_service
+Add your api key as (apiKey = YOUR_API_KEY).
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### How run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run this command in your terminal:
+```bash
+flutter run
+```
