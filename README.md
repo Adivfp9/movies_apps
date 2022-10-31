@@ -8,7 +8,7 @@ Flutter TMDB Movie App.
 
 Run this command in your terminal:
 ```bash
-git clone https://github.com/yusriltakeuchi/restaurantapp.git
+git clone https://github.com/Adivfp9/movies_apps.git
 cd restaurantapp
 flutter packages get
 ```
